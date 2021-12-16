@@ -1,0 +1,44 @@
+body {
+	background-image: url("content/background.jfif");
+}
+
+h1 {
+	font-weight: 900;
+	font-size: xx-large;
+	color: #ff0000;
+}
+
+p {
+	font-weight: 200;
+	font-size: large;
+	color: #000000;
+}
+
+div {
+	text-align: center;
+	font-size: 150%;
+	align-items: center;
+	margin: auto;
+}
+
+.responseheader {
+	font-size: larger;
+	color: #ff0000;
+}
+
+.submit {
+	font-size: 20px;
+	color: #000000;
+	border-width: medium;
+	cursor: pointer;
+}
+
+.tacb {
+	width: 15px;
+	height: 15px;
+	font-size: medium;
+}
+
+.boxesdiv {
+	text-align: center;
+}
